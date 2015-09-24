@@ -1,5 +1,7 @@
 Workers
 ==============================================================================
+Custom release of differential:workers that works with the official underscore string
+
 This package lets you easily push jobs onto a mongo-backed queue and have them asynchronously picked up and ran by a separate 'headless' meteor process.
 
 ## Goals
